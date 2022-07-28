@@ -6,15 +6,15 @@ export const VideoCall = () => {
   return (
     <div style={{display:"flex"}}>
       {stream && (
-          <div>
+          <div style={{height:"400px", width:"200px", border:"1px solid black"}}>
             <div>{name}</div>
-          <video playsInline muted ref={myVideo} autoPlay/>
+          <video playsInline  ref={myVideo} autoPlay/>
         </div>
       )}
 
       {
         callAccepted && !callEnded &&(
-          <div>
+          <div style={{height:"400px", width:"200px", border:"1px solid black"}}>
             <div>{call.name}</div>
           <video playsInline ref={userVideo} autoPlay/>
         </div>
