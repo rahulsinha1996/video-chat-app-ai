@@ -5,6 +5,7 @@ export const VideoCall = () => {
   const {name,callAccepted, myVideo, userVideo, callEnded, stream, call}=useContext(SocketContext)
   return (
     <div style={{display:"flex"}}>
+    <h1>Hello</h1>
       {stream && (
           <div style={{height:"400px", width:"200px", border:"1px solid black"}}>
             <div>{name}</div>
