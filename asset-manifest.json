@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/video-chat-app-ai/static/css/main.073c9b0a.css",
-    "main.js": "/video-chat-app-ai/static/js/main.71fbc976.js",
+    "main.js": "/video-chat-app-ai/static/js/main.b90cfba9.js",
     "static/js/787.142da1d4.chunk.js": "/video-chat-app-ai/static/js/787.142da1d4.chunk.js",
     "static/media/logo.svg": "/video-chat-app-ai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/video-chat-app-ai/index.html",
     "main.073c9b0a.css.map": "/video-chat-app-ai/static/css/main.073c9b0a.css.map",
-    "main.71fbc976.js.map": "/video-chat-app-ai/static/js/main.71fbc976.js.map",
+    "main.b90cfba9.js.map": "/video-chat-app-ai/static/js/main.b90cfba9.js.map",
     "787.142da1d4.chunk.js.map": "/video-chat-app-ai/static/js/787.142da1d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.71fbc976.js"
+    "static/js/main.b90cfba9.js"
   ]
 }
